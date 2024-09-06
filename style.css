@@ -8,9 +8,10 @@
     width: 100vh;
     flex-direction: row;
     flex-wrap: wrap;
+    border: 1px solid red;
 }
 .card{
-    display: flex;
+    display: block;
     width: 200px;
     height: 300px;
     align-items: center;
@@ -20,13 +21,13 @@
     align-content: center;
 }
 img{
-    display:inline-flex;
+    display:inline-block;
     background-color: black;
     width: 75px;
     height: 150px;
     align-items: center;
 } 
 p{
-    display: inline-flex;
+    display: inline-block;
     text-align: center;
 }
