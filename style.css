@@ -15,6 +15,7 @@
 }
 img{
     display:inline-block;
+    background-color: black;
     width: 50px;
     height: 100px;
     align-items: center;
