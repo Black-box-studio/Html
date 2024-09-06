@@ -5,26 +5,27 @@
 #container{
     display:flex;
     height: 1000px;
-    width: 100vw;
+    width: 100vh;
     flex-direction: row;
     flex-wrap: wrap;
 }
 .card{
-    display: block;
+    display: flex;
     width: 200px;
     height: 300px;
     align-items: center;
     justify-content: center;
     border: 1px solid black;
+    text-align: center;
 }
 img{
-    display:inline-block;
+    display:inline-flex;
     background-color: black;
-    width: 50px;
-    height: 100px;
+    width: 75px;
+    height: 150px;
     align-items: center;
 } 
 p{
-    display: inline-block;
+    display: inline-flex;
     text-align: center;
 }
