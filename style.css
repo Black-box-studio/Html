@@ -5,13 +5,13 @@
 #container{
     display:flex;
     height: 1000px;
-    width: 100vh;
+    width: 100%;
     flex-direction: row;
     flex-wrap: wrap;
     border: 1px solid red;
 }
 .card{
-    display: block;
+    display: block;margin: 5px;padding: 5px;
     width: 200px;
     height: 300px;
     align-items: center;
