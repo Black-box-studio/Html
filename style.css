@@ -10,12 +10,12 @@
 }
 .card{
     display: inline-flex;
-    width: 400px;
-    height: 600px;
+    width: 200px;
+    height: 300px;
     align-items: center;
 
 }
 img{
-    width: 150px;
-    height: 350px;
+    width: 50px;
+    height: 100px;
 }
