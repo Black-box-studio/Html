@@ -7,7 +7,7 @@
     flex-wrap: wrap;
 }
 .card{
-    display: inline-flex;
+    display: block;
     width: 200px;
     height: 300px;
     align-items: center;
