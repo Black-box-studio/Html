@@ -2,7 +2,7 @@
 #container{
     display:flex;
     height: 1000px;
-    width: 500px;
+    width: 100vw;
     flex-direction: row;
     flex-wrap: wrap;
 }
